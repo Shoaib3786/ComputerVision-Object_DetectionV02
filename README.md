@@ -1,5 +1,9 @@
 # ComputerVision-Object_DetectionV02
 
+### Objective of the project:
+
+To detect the mouse in the provided image and create a bounding box around it.
+
 ### Tools used:
 1. Tensorflow
 2. Python
