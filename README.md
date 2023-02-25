@@ -35,3 +35,15 @@ Produces different accuracy in the provided scenarios
 ### Drawaback of the project:
 
 Accuracy of the bounding boxes has been compromised.
+
+
+### What I learned:
+
+- Build CNN layers.
+- Worked over Deep learning aspects.
+- Worked over optimising the algorithm.
+- Explored different Neural Network Architecture (MobileNetv2, v3Large).
+- Dived deeper into the image processing, understood the essence of plotting bounding box on resultant output (figured out how does the shrink-ed image from CNN layer affects the bounding box coordinates during plotting).
+
+
+
