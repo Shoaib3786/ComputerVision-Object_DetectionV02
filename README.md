@@ -39,7 +39,9 @@ Accuracy of the bounding boxes has been compromised.
 
 ### What I learned:
 
-- Build CNN layers.
+- Build up Custom Dataset.
+- Perform annotations over the image using 'Labelimg tool'.
+- Build up CNN layers.
 - Worked over Deep learning aspects.
 - Worked over optimising the algorithm.
 - Explored different Neural Network Architecture (MobileNetv2, v3Large).
